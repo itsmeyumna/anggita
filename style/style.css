@@ -1,0 +1,287 @@
+.navbar-atas {
+  margin-top: 20px;
+}
+.navbar-atas .navbar .container .collapse {
+  margin-left: 30px;
+}
+.navbar-atas .navbar .container .collapse .d-flex .btn-primary {
+  width: 125px;
+  color: #fff;
+  background-color: black;
+  border-color: black;
+  border-radius: 0px;
+  font-weight: 400;
+  font-style: 20px;
+  padding: 10px 9px;
+}
+.navbar-atas .navbar .container .collapse .navbar-nav .nav-item {
+  margin-right: 72px;
+}
+.navbar-atas .navbar .container .collapse .navbar-nav .nav-item .nav-link {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.home .container .row .brand {
+  width: 317px;
+  height: 238px;
+}
+.home .container .row .title {
+  width: 500px;
+  text-align: center;
+  margin-bottom: 42px;
+}
+.home .container .row .title h2 {
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 59px;
+  width: 439px;
+  height: 59px;
+}
+.home .container .row .title p {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+}
+.home .container .row .title .btn {
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  margin-top: 10px;
+}
+.home .dua {
+  margin-bottom: 90px;
+}
+.home .dua pict {
+  margin-left: 37px;
+  width: 256px;
+  height: 256px;
+}
+
+.shop {
+  margin-top: 10px;
+}
+.shop h2 {
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 43px;
+  margin-bottom: 58px;
+}
+.shop h2 a {
+  text-decoration: none;
+  color: black;
+}
+.shop .one {
+  width: 500px;
+  height: 500px;
+  margin-bottom: 41px;
+}
+.shop h3 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.shop h3 a {
+  text-decoration: none;
+  color: black;
+}
+.shop .best {
+  width: 300px;
+  height: 400px;
+  margin-bottom: 25px;
+  justify-content: center;
+}
+.shop p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  text-align: center;
+  margin-bottom: 41px;
+}
+.shop .row {
+  padding-left: 130px;
+}
+.shop .row h3 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.shop .row h3 a {
+  text-decoration: none;
+  color: black;
+}
+.shop .row img {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 68px;
+}
+
+.service {
+  padding-bottom: 125px;
+}
+.service .container {
+  padding-left: 152px;
+}
+.service .container .card {
+  width: 882px;
+  height: 836px;
+  border-radius: 10px;
+  border: 1px solid #cccccc;
+  text-align: center;
+}
+.service .container .card h2 {
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 59px;
+  text-align: center;
+  margin-bottom: 62px;
+}
+.service .container .card .row {
+  margin-right: 41px;
+}
+.service .container .card .row img {
+  width: 384px;
+  height: 200px;
+  align-items: center;
+  margin-left: 41px;
+}
+.service .container .card .row h5 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: center;
+  margin-top: 9px;
+  margin-bottom: 24px;
+}
+.service .container .card .row p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  width: 360px;
+  margin-left: 45px;
+}
+
+.kontak {
+  padding-bottom: 214px;
+}
+.kontak .container {
+  padding-left: 150px;
+}
+.kontak .container .card {
+  width: 882px;
+  border: none;
+  background-color: #f6f6f6;
+  border-radius: 0px;
+  padding-bottom: 56px;
+}
+.kontak .container .card h4 {
+  margin-top: 59px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+}
+.kontak .container .card .contact-form label {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 20px;
+  display: flex;
+  margin-left: 240px;
+}
+.kontak .container .card .contact-form input {
+  width: 400px;
+  height: 38px;
+  border-radius: 4px;
+  border: 2px solid #767676;
+  margin-top: 0px;
+}
+.kontak .container .card .contact-form textarea {
+  width: 400px;
+  height: 120px;
+  border-radius: 4px;
+  border: 1px solid #767676;
+  -webkit-box-decoration-break: none;
+          box-decoration-break: none;
+  margin-bottom: 20px;
+}
+.kontak .container .card .contact-form button {
+  width: 400px;
+  height: 38px;
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: center;
+}
+
+.about {
+  background-color: #f9f9f9;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.about .container {
+  border: none;
+  padding-top: 190px;
+  align-items: center;
+  padding-bottom: 140px;
+}
+.about .container .card {
+  width: 880px;
+  margin-left: 50px;
+}
+.about .container .card h4 {
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: center;
+  margin-top: 44px;
+  margin-bottom: 24px;
+}
+.about .container .card p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  margin-left: 20px;
+  margin-bottom: 18px;
+}
+
+.news {
+  margin-bottom: 234px;
+}
+.news h4 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: center;
+  margin-bottom: 19px;
+  margin-top: 28px;
+}
+.news .card {
+  width: 1000px;
+  height: 150px;
+  border: 1px solid #d5d5d5;
+  margin-left: 140px;
+  margin-bottom: 20px;
+}
+.news .card .berita img {
+  width: 80px;
+  height: 80px;
+  float: left;
+  margin-top: 21px;
+  margin-left: 35px;
+  margin-right: 45px;
+}
+.news .card .berita p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-top: 47px;
+}/*# sourceMappingURL=style.css.map */
